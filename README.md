@@ -1,7 +1,7 @@
 ## *Overview*
 Sample Messaging Queue Producer Application.
 
-Sample Messaging Queue Consumer Application `https://github.com/sahan89/SpringBootJmsProducer`
+Sample Messaging Queue Consumer Application `https://github.com/sahan89/SpringBootJMSConsumer`
 
 ## *Prerequisites*
 * Java 1.8
